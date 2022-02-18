@@ -2,7 +2,7 @@
 ## ОТЧЕТ ПО ЭКПЛУАТАЦИОННОЙ ПРАКТИКЕ НА БАЗЕ РГПУ им.А.И.ГЕРЦЕНА
 
 ## [ЗАДАНИЕ НА ПРАКТИКУ](https://docs.google.com/document/d/134u0WAMI_W66WdNaE6EspqpHSF3W1NFY/edit?usp=sharing&ouid=116518572730971353865&rtpof=true&sd=true)
-## [ОТЧЕТ ПО ПРАКТИКЕ]()
+## [ОТЧЕТ ПО ПРАКТИКЕ](https://docs.google.com/document/d/1xqzd41-B5jovoojSi9uX_AEwizND4rOB/edit?usp=sharing&ouid=116518572730971353865&rtpof=true&sd=true)
 
 # ИСР
 ### [Задание 1.1](https://docs.google.com/document/d/1PXoOnUTJ2uAyYou0-7fJEEFHFyNc_2NN/edit?usp=sharing&ouid=116518572730971353865&rtpof=true&sd=true)
